@@ -2,5 +2,7 @@
 <paths xmlns:android="http://schemas.android.com/apk/res/android">
     <external-path
         name="my_images"
-        path="Android/data/com.nackademin.foureverhh.takepicture/files/Pictures"/>
+        path="/storage/emulated/0/Pictures"/>
+        <!--path="Android/data/com.nackademin.foureverhh.takepicture/files/Pictures"/>-->
+
 </paths>
